@@ -1,9 +1,11 @@
-=== Plugin Name ===
+=== Custom Login ===
 Contributors: BinaryMoon
 Tags: customise, customize, login, customisation, customization, admin
 Requires at least: 3.5
 Tested up to: 4.4
 Stable Tag:1.9
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Customise the WordPress login box quickly and easily
 
@@ -32,6 +34,7 @@ This section describes how to install the plugin and get it working.
 
 == Changelog ==
 
+* 2.0 Fix coding standards and improve security
 * 1.9 Update the localization strings so that the new language pack system will be able to translate the plugin
 * 1.8.2 Stop color picker from being loaded on every page in the admin - thanks to mgsisk for the report and code fix
 * 1.8.1 Update CSS Tidy files to latest version

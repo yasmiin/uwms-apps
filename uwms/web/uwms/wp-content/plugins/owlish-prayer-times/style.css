@@ -1,0 +1,39 @@
+/**
+ * Owlish_Prayertimes
+ * CSS-file
+ */
+
+.ow_prayertimes {
+    width:100%;
+    overflow:hidden;
+}
+.ow_place {
+    text-align:left;
+    border-bottom:1px solid #eee;
+    margin:0 0 6px 0;
+    padding:0 0 6px 0;
+}
+.ow_label {
+    clear: both;
+    float: left;
+    width: 70%;
+    padding:0 0 3px 0;
+}
+.ow_value {
+    float: left;
+    width: 30%;
+    padding:0 0 3px 0;   
+}
+.ow_clearer {
+    clear:both;
+}
+.ow_time {
+    text-align:left;
+    border-top:1px solid #eee;
+    margin:6px 0 12px 0;
+    padding:6px 0 0 0;
+}
+.error {
+    color:red;
+    font-size:10px;
+}

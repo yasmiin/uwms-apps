@@ -4,7 +4,7 @@ Donate link: http://www.weblizar.com/
 Tags: slider, slider plugin, best slider plugin, image slide show, responsive slider, image slider, slider shortcode, slider widget, responsive image slider, theme slider, post slider, page slider, free slider plguin 
 Requires at least: 3.8
 Tested up to: 4.4.2
-Stable tag: 2.9.4.1
+Stable tag: 2.9.4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -138,6 +138,9 @@ If you have any question contact us at here: [Plugin Support Forum ](http://word
 == Changelog ==
 
 For more information, see Weblizar(http://wwww.weblizar.com/).
+
+= Version 2.9.4.2 06-Feb-2016 =
+* Minior testing and updates
 
 = Version 2.9.4.1 06-Feb-2016 =
 * HTML tag display fixed

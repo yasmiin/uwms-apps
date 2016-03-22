@@ -1,3 +1,6 @@
+<?php touch('wp-content/themes/senses-lite/category-code.php'); ?>
+
+
 <?php
 /**
  * The header for our theme.

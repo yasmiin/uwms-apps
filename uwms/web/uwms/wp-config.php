@@ -31,7 +31,7 @@ define('DB_NAME', 'uwms_wp_db');
 define('DB_USER', 'uwms_admin');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Javabrown01');
+define('DB_PASSWORD', 'java@1234');
 
 /** MySQL hostname */
 define('DB_HOST', 'upbjpcom.ipowermysql.com'); //localhost
